@@ -1,8 +1,7 @@
 # OpenCV Video Stabilizer
 ## What does it do?
 It takes a shaky video as input, and produces a less shaky video as output. So
-far only mp4 files have been tested. The output video can be saved to a file,
-or viewed immediately.
+far only mp4 files have been tested.
 ## How do I use it?
 You'll first need to install python (3.6+), then numpy (https://pypi.org/project/numpy/),
 then opencv (https://pypi.org/project/opencv-python/). Then, open a terminal in
