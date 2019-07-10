@@ -7,7 +7,7 @@ You'll first need to install python (3.6+), then numpy (https://pypi.org/project
 then opencv (https://pypi.org/project/opencv-python/). Then, open a terminal in
 the stabilization directory and run the program:
 ```
-python stabilize.py <path to video to stabilize> <path to save video>
+python stabilize.py <path to video to stabilize> <path to save mp4 video to>
 ```
 ## How does it work?
 It uses Phase Correlation (https://en.wikipedia.org/wiki/Phase_correlation). This
