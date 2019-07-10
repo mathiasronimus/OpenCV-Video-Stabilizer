@@ -8,7 +8,7 @@ MAXIMUM_TRANSLATION = 20
 # Parse the command-line arguments
 argc = len(sys.argv)
 if argc is not 3:
-    print('Incorrect arguments. Use python <name of this script> <path to input video> <optionally path to output video>')
+    print('Incorrect arguments. Use python <name of this script> <path to input video> <path to output video>')
     quit()
 
 inputFile = sys.argv[1]
